@@ -10,8 +10,10 @@ Kevin Andrés Rubiano Moreno
 El rendimiento de un jugador puede cambiar dependiendo de los oponentes a los que se enfrenta y de su rendimiento en fechas anteriores contra todos los equipos o contra un equipo en específico.
 
 ### <FONT color="blue"> Definición del Problema </FONT>
-En los deportes de alto rendimiento hay muchas variables que pueden afectar el resultado final de un juego, lo que dificulta la tarea de un entrenador. Pues este debe brindar distintas soluciones segpun el contexto que se presente. Entre otras funciones, para un entrenador puede ser complicado 
-El problema radica en que 
+En el baloncesto profesional hay varias variables que pueden afectar el resultado final de un juego, lo que dificulta la tarea de un entrenador. Pues este debe brindar distintas soluciones según el contexto que se presente. Entre otros problemas, para un entrenador puede ser complicado determinar la alineación su equipo y planear la ejecución antes del juego y durante el juego.
+
+### <FONT color="blue"> Justificación del problema </FONT>
+Con el fin de brindarle ayuda a un entrenador de un equipo, se busca crear una máquina capaz de recomendarle alineaciones apropiadas para mejorar el rendimiento del equipo en una fecha específica. La máquina se basaría en las estadísticas de los jugadores y en el histórico de los enfrentamientos.
 
 ### <FONT color="blue"> Objetivo General </FONT>
 Decidir la alineación ideal de un equipo de la NBA para una fecha en específico.
