@@ -27,6 +27,6 @@ Decidir la alineación ideal de un equipo de la NBA para una fecha en específic
 
 ### <FONT color="blue"> Descripción de los datos </FONT>
 
-Se encuentra a dispocisión en la página web oficial de estadísticas de la NBA una base de datos que contiene estadísticas detalladas por jugador y otra que contiene estadísticas detalladas por equipos. Ambas se presentan en una interfaz dinámica que permite hacer filtros específicos sobre los datos, entre estos la posibilidad de visualizar el histórico de juegos por equipo y por jugador. Los datos se encuentran en los siguientes enlaces:
+En un partido de NBA suceden una gran cantidad de acontecimientos que, gracias a las nuevas tecnologías y a la necesidad de evolucionar y mejorar el rendimiento del deporte, se pueden recoger y recopilar para su posterior análisis. En la página web oficial de estadísticas de la NBA se encuentra a dispocisión una base de datos que contiene estadísticas detalladas por jugador y otra que contiene estadísticas detalladas por equipos. Ambas se presentan en una interfaz dinámica que permite hacer filtros específicos sobre los datos, entre estos la posibilidad de visualizar el histórico de juegos por equipo y por jugador. Los datos se encuentran en los siguientes enlaces:
 * [Estadísticas Jugadores](https://www.nba.com/stats/players/traditional?PerMode=Totals&sort=PTS&dir=-1)
 * [Estadísticas Equipos](https://www.nba.com/stats/teams/traditional?DateFrom=&DateTo=&PerMode=Totals&sort=PTS&dir=-1)
