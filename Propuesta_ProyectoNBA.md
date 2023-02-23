@@ -7,7 +7,7 @@ Jonathan Steven Rincón Ramírez \\
 Kevin Andrés Rubiano Moreno
 
 ### <FONT color="blue"> Antecedentes </FONT>
-El rendimiento de un jugador puede cambiar dependiendo de los oponentes a los que se enfrenta y de su rendimiento en fechas anteriores contra otros los equipos.
+El rendimiento de un jugador de baloncesto profesional puede cambiar dependiendo de los oponentes a los que se enfrenta y de su rendimiento en fechas anteriores contra otros equipos.
 
 ### <FONT color="blue"> Definición del Problema </FONT>
 En el baloncesto profesional hay varias variables que pueden afectar el resultado final de un juego, lo que dificulta la tarea de un entrenador. Pues este debe brindar distintas soluciones según el contexto que se presente. Entre otros problemas, para un entrenador puede ser complicado determinar la alineación de su equipo y planear la ejecución antes y durante el juego.
